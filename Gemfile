@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+gem 'capybara'
+gem 'selenium-webdriver'
+gem 'byebug'
+gem 'rspec-expectations', '~> 3.4'
+gem 'site_prism', '~> 2.8'
+gem 'rspec', '~> 3.4'
